@@ -1,0 +1,6 @@
+{
+        "${DOCKERCFG_DOMAIN}": {
+                "auth": "${DOCKERCFG_AUTH}",
+                "email": "${DOCKERCFG_EMAIL}"
+        }
+}
